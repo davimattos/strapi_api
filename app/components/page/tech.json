@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_page_teches",
+  "info": {
+    "name": "tech",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true
+    }
+  }
+}
