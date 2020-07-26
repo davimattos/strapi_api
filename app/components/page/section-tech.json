@@ -10,10 +10,13 @@
       "type": "string",
       "required": true
     },
-    "tech": {
+    "techIcons": {
       "type": "component",
       "repeatable": true,
-      "component": "page.tech"
+      "component": "page.tech",
+      "required": false,
+      "max": 10,
+      "min": 5
     }
   }
 }

@@ -6,17 +6,17 @@
   },
   "options": {},
   "attributes": {
-    "description": {
-      "type": "string",
-      "required": true
-    },
-    "image": {
+    "icon": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
         "images"
       ],
       "plugin": "upload",
+      "required": true
+    },
+    "title": {
+      "type": "string",
       "required": true
     }
   }
