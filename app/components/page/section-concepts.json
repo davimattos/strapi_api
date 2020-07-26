@@ -14,7 +14,7 @@
       "type": "component",
       "repeatable": true,
       "component": "page.concepts",
-      "required": false
+      "required": true
     }
   }
 }
