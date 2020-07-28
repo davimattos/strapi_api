@@ -48,7 +48,7 @@ const Wysiwyg = ({
       }}
     >
       <Label htmlFor={name} message={label} style={{ marginBottom: 10 }} />
-      <div>
+      <div style={{ marginBottom: 10 }}>
         <Button color="primary" onClick={handleToggle}>
           Add Image
         </Button>
