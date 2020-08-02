@@ -30,7 +30,7 @@
       "component": "page.section-about-project",
       "required": true
     },
-    "sectionTechs": {
+    "sectionTech": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech",
