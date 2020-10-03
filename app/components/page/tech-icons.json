@@ -1,8 +1,8 @@
 {
-  "collectionName": "components_page_teches",
+  "collectionName": "components_page_tech_icons",
   "info": {
-    "name": "tech",
-    "icon": "align-justify"
+    "name": "techIcons",
+    "icon": "icons"
   },
   "options": {},
   "attributes": {

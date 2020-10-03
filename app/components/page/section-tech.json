@@ -2,7 +2,7 @@
   "collectionName": "components_page_section_teches",
   "info": {
     "name": "sectionTech",
-    "icon": "sticky-note"
+    "icon": "toolbox"
   },
   "options": {},
   "attributes": {
@@ -13,10 +13,7 @@
     "techIcons": {
       "type": "component",
       "repeatable": true,
-      "component": "page.tech",
-      "required": true,
-      "max": 10,
-      "min": 5
+      "component": "page.tech-icons"
     }
   }
 }

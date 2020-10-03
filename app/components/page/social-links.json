@@ -12,7 +12,8 @@
         "GitHub",
         "Twitter",
         "LinkedIn",
-        "Dribble"
+        "Dribble",
+        "Facebook"
       ],
       "default": "GitHub",
       "required": true
